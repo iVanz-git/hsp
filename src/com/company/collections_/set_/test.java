@@ -1,7 +1,6 @@
 package com.company.collections_.set_;
 
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @Author iVan@admin
@@ -24,6 +23,9 @@ public class test {
         }
 
         System.out.println("=============分割线=============");
+        System.out.println("=============分割线=============");
+        System.out.println("=============分割线=============");
+        System.out.println("=============分割线=============");
 
         HashSet<HashSet> hashSet1 = new HashSet();
         hashSet1.add(null);
@@ -38,9 +40,6 @@ public class test {
         }
 
 
-//        LinkedHashSet
-
-//        ConcurrentHashMap
     }
 }
 

@@ -1,0 +1,10 @@
+#忽略的文件
+
+*.class
+*.log
+*.lock
+
+# idea
+
+.idea/
+*.iml

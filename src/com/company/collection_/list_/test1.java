@@ -1,6 +1,5 @@
-package com.company.collections_.list_;
+package com.company.collection_.list_;
 
-import javax.xml.soap.Node;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

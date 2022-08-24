@@ -1,9 +1,8 @@
-package com.company.collections_.arraylist_;
+package com.company.collection_.arraylist_;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
-import java.util.Map;
 
 /**
  * @Author iVan@admin

@@ -1,8 +1,7 @@
-package com.company.collections_.arraylist_;
+package com.company.collection_.arraylist_;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
 
 /**
  * @Author iVan@admin

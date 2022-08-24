@@ -1,4 +1,4 @@
-package com.company.collections_.set_;
+package com.company.collection_.set_;
 
 import java.util.*;
 
